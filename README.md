@@ -6,8 +6,8 @@
 3. Run `./../createDir.sh` to create basic project structure with basic import statements required for the project
 
 # Project Structure
-fastapi_project/
-├── app/
+fastapi_project/\n
+├── app/\n
 │   ├── __init__.py
 │   ├── main.py
 │   ├── db.py
