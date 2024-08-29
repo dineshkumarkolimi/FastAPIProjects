@@ -6,7 +6,7 @@
 3. Run `./../createDir.sh` to create basic project structure with basic import statements required for the project
 
 # Project Structure
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/dineshkumarkolimi/FastAPIProjects/blob/main/project_structure.png?raw=true)
 
 # What is FastAPI?
 FastAPI is a modern, high-performance web framework for building APIs with Python 3.7+ based on standard Python type hints. It was designed to create RESTful APIs with minimal code and high performance. FastAPI is built on top of Starlette for the web parts and Pydantic for the data parts.
