@@ -6,35 +6,7 @@
 3. Run `./../createDir.sh` to create basic project structure with basic import statements required for the project
 
 # Project Structure
-fastapi_project/\n
-├── app/\n
-│   ├── __init__.py
-│   ├── main.py
-│   ├── db.py
-│   ├── crud/
-│   │   ├── __init__.py
-│   │   ├── auth.py
-│   │   └── user.py
-│   ├── models/
-│   │   ├── __init__.py
-│   │   ├── user.py
-│   │   └── base.py
-│   ├── schemas/
-│   │   ├── __init__.py
-│   │   ├── user.py
-│   │   └── auth.py
-│   ├── api/
-│   │   ├── __init__.py
-│   │   ├── auth.py
-│   │   └── user.py
-│   └── templates/
-│       ├── home.html
-│       ├── about.html
-│       ├── signup.html
-│       └── login.html
-├── Dockerfile
-├── requirements.txt
-└── docker-compose.yml
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 # What is FastAPI?
 FastAPI is a modern, high-performance web framework for building APIs with Python 3.7+ based on standard Python type hints. It was designed to create RESTful APIs with minimal code and high performance. FastAPI is built on top of Starlette for the web parts and Pydantic for the data parts.
